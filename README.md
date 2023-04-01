@@ -48,4 +48,4 @@ convenience. We would appreciate your valid imagination in finding solutions.
 
 # HEART DISEASE DIAGNOSTIC DASHBOARD
 
-[IMAGE](https://github.com/Abdul-Jaweed/Heart-Disease-Diagnostic-Analysis/blob/main/Images/Heart%20Dashboard.PNG)
+![IMAGE](https://github.com/Abdul-Jaweed/Heart-Disease-Diagnostic-Analysis/blob/main/Images/Heart%20Dashboard.PNG)

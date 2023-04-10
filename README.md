@@ -7,11 +7,11 @@ Team Name : CLUSTER CHAMP
 Team Member :
 -------------
 
--   ## ABDUL JAWEED
+-   ## [ABDUL JAWEED](https://www.linkedin.com/in/abdul-jaweed-datascientist/)
 
--   ## MASNA ASHRAF
+-   ## [MASNA ASHRAF](https://www.linkedin.com/in/masna-ashraf/)
 
--   ## SHAZIYA SHAIKH
+-   ## [SHAZIYA SHAIKH](https://www.linkedin.com/in/shaziya-shaikh-ba9295253/)
 
 Problem Statement:
 ------------------

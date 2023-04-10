@@ -46,6 +46,8 @@ convenience. We would appreciate your valid imagination in finding solutions.
 
 
 
+**![Prototype](https://abdul-jaweed-heart-disease-diagnostics-prediction-home-whsmbc.streamlit.app/)**
+
 # HEART DISEASE DIAGNOSTIC DASHBOARD
 
 ![IMAGE](https://github.com/Abdul-Jaweed/Heart-Disease-Diagnostic-Analysis/blob/main/Images/Heart%20Dashboard.PNG)

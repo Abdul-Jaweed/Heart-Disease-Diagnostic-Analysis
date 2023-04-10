@@ -1,5 +1,6 @@
 # Heart Disease Diagnostic Analysis
 
+![heart](https://github.com/Abdul-Jaweed/Heart-Disease-Diagnostics-Prediction/blob/main/heart-descrip.jpg)
 Team Name : CLUSTER CHAMP
 --------------------
 
